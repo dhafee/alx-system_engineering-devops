@@ -1,0 +1,2 @@
+#!/bin/bash
+perl -lne '[rint if $, % 2 ==1'
